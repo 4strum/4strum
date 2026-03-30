@@ -17,13 +17,6 @@
 <img src="https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=php" />
 <img src="https://img.shields.io/badge/-MySQL-orange?style=for-the-badge&logo=mysql" />
 <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker" />
-</p>
-
----
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical" />
 </p>
 
 ---
