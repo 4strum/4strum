@@ -22,12 +22,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=4strum&show_icons=true&theme=radical" />
-</p>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical" />
 </p>
@@ -52,15 +46,10 @@
 ### 📫 Contato
 
 <p align="center">
-<a href="#">LinkedIn</a> • 
+<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-borges-da-silva-84933a249/">LinkedIn</a> • 
 <a href="#">Portfólio</a> • 
-<a href="#">Email</a>
+<a href="leon.jpbs@gmail.com">Email</a>
 </p>
 
----
 
-### 🐍 Contribuições
 
-<p align="center">
-<img src="https://github.com/SEU_USERNAME/SEU_USERNAME/blob/output/github-contribution-grid-snake.svg" />
-</p>
